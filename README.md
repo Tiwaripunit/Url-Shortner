@@ -1,12 +1,14 @@
 # Url-Shortner
 
-Steps 1: I am using springboot, thymleaf and jquery for this application.
+Steps 1 : I am using springboot, thymleaf and jquery for this application.
 
 Step  2 : Download the project.
 
-Step 3 : Run the springboot application.
+Step 3 : Update the project for maven dependencies.
 
-Step  4 : Open http://localhost:8282/ in your chrome browser you will be able to see ui.
+Step 4 : Run the springboot application.
+
+Step 5 : Open http://localhost:8282/ in your chrome browser you will be able to see ui.
 
 For docker:
 
